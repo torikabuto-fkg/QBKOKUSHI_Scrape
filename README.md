@@ -1,4 +1,4 @@
-# QB Scraper Ver.5
+# QB Scraper
 
 **medilink-study.com QB（クエスチョン・バンク）** の問題・解説を自動スクレイピングし、  
 **PDF / Excel / JSON / 画像ファイル** として一括出力する Node.js スクリプトです。
