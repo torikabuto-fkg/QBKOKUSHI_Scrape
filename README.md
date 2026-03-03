@@ -81,7 +81,7 @@ const CONFIG = {
 ## ▶️ 実行
 
 ```bash
-node QB_Scrape_Ver.5.js
+node QB_Scrape.js
 ```
 
 ### WSL（Windows）の場合
@@ -95,7 +95,7 @@ node QB_Scrape_Ver.5.js
 ### 実行ログの例
 
 ```
-🚀 QB スクレイピング Ver.5
+🚀 QB スクレイピング
    URL   : https://qb.medilink-study.com/Answer/117A1
    問題数: 100
    出力名: A 消化器
